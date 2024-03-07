@@ -1,2 +1,2 @@
-# housing_analysis
+# Housing Analysis
 Finding insights from housing data
